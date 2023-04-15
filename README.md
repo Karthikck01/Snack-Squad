@@ -14,4 +14,5 @@ libraries.The user can see a list of snacks, and by tapping on a snack,and by ta
 in the cart and can proceed to checkout to make the purchase.
 
 Video Demonstration link - https://youtu.be/VV_Ugg_bcEE
+
 Google Developers profile - https://developers.google.com/profile/u/110411381894901714476
